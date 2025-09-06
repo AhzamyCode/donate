@@ -65,12 +65,7 @@
       const spinner = document.createElement('div');
       spinner.className = 'loading-spinner';
       qrisContainer.appendChild(spinner);
-    // "result": {
-    // "token": "1689916:nB6EAHycxRkTVrehwZzNXlFum3QGKdWg",
-    // "id": "1689916",
-    // "name": "ahzamycode",
-    // "username": "kevyll",
-    // "balance": "40389"
+
 
       try {
         const imageUrl = encodeURIComponent('https://uploader.zenzxz.dpdns.org/uploads/1757143513496.jpeg');
