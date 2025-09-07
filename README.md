@@ -27,7 +27,7 @@ Tujuan utamanya adalah memudahkan pengguna untuk memberikan donasi secara cepat,
 
 ## 📸 Demo / Screenshot
 
-Tampilan aplikasi **Donate**:
+Tampilan aplikasi **Simple Donate**:
 
 ![Donate App Screenshot](https://ibb.co.com/zWtwFZJy)
 
@@ -52,4 +52,3 @@ Berikut langkah untuk berkontribusi:
    
 ---
 
-Lu mau gua bikinin juga **file `LICENSE` MIT** biar sekalian lengkap, atau cukup keterangan di README aja bro?
