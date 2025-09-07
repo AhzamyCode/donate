@@ -29,7 +29,8 @@ Tujuan utamanya adalah memudahkan pengguna untuk memberikan donasi secara cepat,
 
 Tampilan aplikasi **Simple Donate**:
 
-![Donate App Screenshot]([https://ibb.co.com/zWtwFZJy](https://i.postimg.cc/JtwHVzrV/donate.png))
+![Donate App Screenshot](https://i.postimg.cc/JtwHVzrV/donate.png)
+
 
 ## 🤝 Kontribusi
 
